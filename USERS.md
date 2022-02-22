@@ -196,3 +196,4 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [Casavo](https://casavo.com)
 1. [Majid Al Futtaim](https://www.majidalfuttaim.com/)
 1. [ZOZO](https://corp.zozo.com/)
+1. [EFY Colombia](https://www.efy.com.co/)
